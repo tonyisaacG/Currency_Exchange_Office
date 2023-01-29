@@ -1,4 +1,5 @@
 using Currency_Exchange_Office.client;
+using Currency_Exchange_Office.mainForm;
 using Currency_Exchange_Office.treaders;
 
 namespace Currency_Exchange_Office
@@ -14,7 +15,7 @@ namespace Currency_Exchange_Office
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new clientForm());
+            Application.Run(new MainForm());
         }
     }
 }

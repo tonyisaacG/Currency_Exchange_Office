@@ -17,3 +17,7 @@ C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_O
 C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.genruntimeconfig.cache
 C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\ref\Currency_Exchange_Office.dll
 C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.client.clientForm.resources
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.financialTransaction.financialTransaction.resources
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.login.LoginForm.resources
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.mainForm.MainForm.resources
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.Properties.Resources.resources

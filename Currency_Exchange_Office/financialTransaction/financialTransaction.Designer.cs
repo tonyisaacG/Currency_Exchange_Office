@@ -435,6 +435,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1193, 570);
             this.Controls.Add(this.panel1);
+            this.MaximizeBox = false;
             this.Name = "financialTransaction";
             this.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.RightToLeftLayout = true;
