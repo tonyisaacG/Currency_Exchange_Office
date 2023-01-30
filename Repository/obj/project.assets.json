@@ -1,7 +1,6 @@
 {
   "version": 3,
   "targets": {
-<<<<<<< HEAD
     "net6.0": {
       "Humanizer.Core/2.8.26": {
         "type": "package",
@@ -771,22 +770,14 @@
       "path": "../Entities/Entities.csproj",
       "msbuildProject": "../Entities/Entities.csproj"
     }
-=======
-    "net6.0": {}
->>>>>>> shehab
   },
-  "libraries": {},
   "projectFileDependencyGroups": {
-<<<<<<< HEAD
     "net6.0": [
       "Contracts >= 1.0.0",
       "Entities >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.13",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.13"
     ]
-=======
-    "net6.0": []
->>>>>>> shehab
   },
   "packageFolders": {
     "C:\\Users\\La Vie\\.nuget\\packages\\": {}
@@ -832,6 +823,18 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[6.0.13, )"
+          },
+          "Microsoft.EntityFrameworkCore.Tools": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[6.0.13, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
