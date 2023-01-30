@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Currency_Exchange_Office"
+    "\\Contracts",
+    "\\Currency_Exchange_Office\\mainForm"
   ],
-  "SelectedNode": "\\Currency_Exchange_Office\\Form1.cs",
+  "SelectedNode": "\\Contracts\\IDepositeRepository.cs",
   "PreviewInSolutionExplorer": false
 }

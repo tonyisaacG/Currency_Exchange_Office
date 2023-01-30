@@ -61,36 +61,42 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\La Vie\\.nuget\\packages\\": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\carrer\\Freelance_Projects\\Currency_Exchange_Office\\Services\\Services.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Source\\Repos\\tonyisaacG\\Currency_Exchange_Office\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "E:\\carrer\\Freelance_Projects\\Currency_Exchange_Office\\Services\\Services.csproj",
-      "packagesPath": "C:\\Users\\La Vie\\.nuget\\packages\\",
-      "outputPath": "E:\\carrer\\Freelance_Projects\\Currency_Exchange_Office\\Services\\obj\\",
+      "projectPath": "C:\\Users\\HP\\Source\\Repos\\tonyisaacG\\Currency_Exchange_Office\\Services\\Services.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\Source\\Repos\\tonyisaacG\\Currency_Exchange_Office\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\La Vie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+<<<<<<< HEAD
             "E:\\carrer\\Freelance_Projects\\Currency_Exchange_Office\\Contracts\\Contracts.csproj": {
               "projectPath": "E:\\carrer\\Freelance_Projects\\Currency_Exchange_Office\\Contracts\\Contracts.csproj"
             },
             "E:\\carrer\\Freelance_Projects\\Currency_Exchange_Office\\Services.Contracts\\Services.Contracts.csproj": {
               "projectPath": "E:\\carrer\\Freelance_Projects\\Currency_Exchange_Office\\Services.Contracts\\Services.Contracts.csproj"
+=======
+            "C:\\Users\\HP\\Source\\Repos\\tonyisaacG\\Currency_Exchange_Office\\Services.Contracts\\Services.Contracts.csproj": {
+              "projectPath": "C:\\Users\\HP\\Source\\Repos\\tonyisaacG\\Currency_Exchange_Office\\Services.Contracts\\Services.Contracts.csproj"
+>>>>>>> e7c3bdec24af503333e0d679b99c3bf28218408e
             }
           }
         }
@@ -120,7 +126,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
