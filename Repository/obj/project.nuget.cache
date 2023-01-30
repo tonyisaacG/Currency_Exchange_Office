@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2pIl9DRF59Ek64UgSj8hi1pvJ2LjAlGdcHpy7Mh+xVgVYvj1GaUYJumWA2pVmg0CuH6CPQEGtvGdX4OfF59NOQ==",
+  "dgSpecHash": "mN77Wf6mCsmt84emuOK9pmMEaUWR5mgPFZk6ih/r2bXOhcxllER5E/DByAPhxGKON8vVSde0Tp9cjtJEZrcPuw==",
   "success": true,
   "projectFilePath": "E:\\carrer\\Freelance_Projects\\Currency_Exchange_Office\\Repository\\Repository.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
-}
+  "expectedPackageFiles": [
+    "C:\\Users\\La Vie\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\La Vie\\.nuget\\packages\\microsoft.entityf

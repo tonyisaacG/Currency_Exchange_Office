@@ -1,12 +1,24 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace Entities
 {
-    internal class Desposit
+    public class Desposit
     {
+        [Key]
+        public int Despt_id { get; set; }
+        [DataType(DataType.Currency)]
+        public decimal Despt_money { get; set; }
+        [DataType(DataType.Date)]
+        public DateTime Despt_date { get; set; }
+
+        [ForeignKey(nameof(Client))]
+        public int Client_id { get; set; }
+        public Client Client { get; set; }
     }
 }
