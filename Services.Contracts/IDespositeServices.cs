@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Services.Contracts
 {
-    public interface IServicesManager
+    public interface IDespositeServices
     {
-        IDespositeServices DespositeService { get; }
     }
 }

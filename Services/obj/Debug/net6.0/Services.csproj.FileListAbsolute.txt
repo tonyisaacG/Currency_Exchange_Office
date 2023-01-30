@@ -13,3 +13,7 @@ E:\carrer\Freelance_Projects\Currency_Exchange_Office\Services\obj\Debug\net6.0\
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Services\obj\Debug\net6.0\refint\Services.dll
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Services\obj\Debug\net6.0\Services.pdb
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Services\obj\Debug\net6.0\ref\Services.dll
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Services\bin\Debug\net6.0\Contracts.dll
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Services\bin\Debug\net6.0\Entities.dll
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Services\bin\Debug\net6.0\Contracts.pdb
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Services\bin\Debug\net6.0\Entities.pdb

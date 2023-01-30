@@ -2,6 +2,29 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contracts.dll": {}
+        }
+      },
+      "Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entities.dll": {}
+        }
+      },
       "Services.Contracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -15,6 +38,16 @@
     }
   },
   "libraries": {
+    "Contracts/1.0.0": {
+      "type": "project",
+      "path": "../Contracts/Contracts.csproj",
+      "msbuildProject": "../Contracts/Contracts.csproj"
+    },
+    "Entities/1.0.0": {
+      "type": "project",
+      "path": "../Entities/Entities.csproj",
+      "msbuildProject": "../Entities/Entities.csproj"
+    },
     "Services.Contracts/1.0.0": {
       "type": "project",
       "path": "../Services.Contracts/Services.Contracts.csproj",
@@ -23,6 +56,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Contracts >= 1.0.0",
       "Services.Contracts >= 1.0.0"
     ]
   },
@@ -52,6 +86,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "E:\\carrer\\Freelance_Projects\\Currency_Exchange_Office\\Contracts\\Contracts.csproj": {
+              "projectPath": "E:\\carrer\\Freelance_Projects\\Currency_Exchange_Office\\Contracts\\Contracts.csproj"
+            },
             "E:\\carrer\\Freelance_Projects\\Currency_Exchange_Office\\Services.Contracts\\Services.Contracts.csproj": {
               "projectPath": "E:\\carrer\\Freelance_Projects\\Currency_Exchange_Office\\Services.Contracts\\Services.Contracts.csproj"
             }

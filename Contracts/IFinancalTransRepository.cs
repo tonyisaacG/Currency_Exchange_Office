@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Services.Contracts
+namespace Contracts
 {
-    public interface IServicesManager
+    public interface IFinancalTransRepository
     {
-        IDespositeServices DespositeService { get; }
     }
 }

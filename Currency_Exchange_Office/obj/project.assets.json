@@ -1269,6 +1269,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "Contracts": "1.0.0",
           "Services.Contracts": "1.0.0"
         },
         "compile": {

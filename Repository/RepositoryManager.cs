@@ -1,4 +1,5 @@
 ﻿using Contracts;
+using Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,16 +11,16 @@ namespace Repository
     public class RepositoryManager: IRepositoryManager
     {
         private readonly DbContextRepository _repositoryContext;
-        //private readonly Lazy<ICompanyRepository> _companyRepository;
+        private readonly Lazy<IDepositeRepository> despositeRepository;
         
 
         public RepositoryManager(DbContextRepository dbContextRepository)
         {
             _repositoryContext = dbContextRepository;
-          //  _employeeRepository = new Lazy<IEmployeeRepository>(() => new EmployeeRepository(_repositoryContext));
+            despositeRepository = new Lazy<IDepositeRepository>(() => new DepositeRepository(_repositoryContext));
         }
 
-        //public IEmployeeRepository Employee => _employeeRepository.Value;
+        public IDepositeRepository Desposite => despositeRepository.Value;
 
         public void SaveAsync() =>  _repositoryContext.SaveChangesAsync();
     }
