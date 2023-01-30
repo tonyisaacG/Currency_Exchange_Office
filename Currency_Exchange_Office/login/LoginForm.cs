@@ -16,5 +16,10 @@ namespace Currency_Exchange_Office.login
         {
             InitializeComponent();
         }
+
+        private void LoginForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

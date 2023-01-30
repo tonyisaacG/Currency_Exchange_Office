@@ -154,7 +154,7 @@
             this.dateTimePicker1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.dateTimePicker1.Location = new System.Drawing.Point(10, 131);
             this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(263, 30);
+            this.dateTimePicker1.Size = new System.Drawing.Size(263, 28);
             this.dateTimePicker1.TabIndex = 8;
             // 
             // label4
@@ -164,7 +164,7 @@
             this.label4.Location = new System.Drawing.Point(400, 131);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(70, 29);
+            this.label4.Size = new System.Drawing.Size(62, 25);
             this.label4.TabIndex = 7;
             this.label4.Text = "التاريخ";
             // 
@@ -175,7 +175,7 @@
             this.label3.Location = new System.Drawing.Point(355, 95);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(120, 29);
+            this.label3.Size = new System.Drawing.Size(109, 25);
             this.label3.TabIndex = 5;
             this.label3.Text = "القيمة الحالية";
             // 
@@ -186,7 +186,7 @@
             this.label2.Location = new System.Drawing.Point(279, 59);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(208, 29);
+            this.label2.Size = new System.Drawing.Size(184, 25);
             this.label2.TabIndex = 4;
             this.label2.Text = "القيمة المضافة/الماخوذة";
             // 
@@ -197,7 +197,7 @@
             this.label1.Location = new System.Drawing.Point(350, 24);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(124, 29);
+            this.label1.Size = new System.Drawing.Size(113, 25);
             this.label1.TabIndex = 3;
             this.label1.Text = "القيمة السابقة";
             // 
@@ -208,7 +208,7 @@
             this.textBox2.Location = new System.Drawing.Point(10, 93);
             this.textBox2.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(263, 31);
+            this.textBox2.Size = new System.Drawing.Size(263, 28);
             this.textBox2.TabIndex = 2;
             // 
             // textBox1
@@ -218,7 +218,7 @@
             this.textBox1.Location = new System.Drawing.Point(10, 58);
             this.textBox1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(263, 31);
+            this.textBox1.Size = new System.Drawing.Size(263, 28);
             this.textBox1.TabIndex = 1;
             // 
             // maskedTextBox1
@@ -228,7 +228,7 @@
             this.maskedTextBox1.Location = new System.Drawing.Point(10, 22);
             this.maskedTextBox1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.maskedTextBox1.Name = "maskedTextBox1";
-            this.maskedTextBox1.Size = new System.Drawing.Size(263, 31);
+            this.maskedTextBox1.Size = new System.Drawing.Size(263, 28);
             this.maskedTextBox1.TabIndex = 0;
             // 
             // panel1
@@ -268,12 +268,12 @@
             this.comboBox1.Location = new System.Drawing.Point(10, 11);
             this.comboBox1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(263, 36);
+            this.comboBox1.Size = new System.Drawing.Size(263, 33);
             this.comboBox1.TabIndex = 0;
             // 
             // Desposit_Form
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(491, 357);
             this.Controls.Add(this.panel3);

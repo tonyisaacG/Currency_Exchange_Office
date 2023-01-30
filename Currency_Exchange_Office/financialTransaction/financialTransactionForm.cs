@@ -48,5 +48,20 @@ namespace Currency_Exchange_Office.financialTransaction
         {
             Application.Run(new MainForm());
         }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

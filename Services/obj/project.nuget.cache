@@ -1,12 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "zXSwoo5cKOkKw+yOGcKkgD/Tp9uMJRPPzYdx24CYdQ71H7adZQWIyXqMkxyYtxy3LGLrzCrU4VZvukrda1IJRA==",
-=======
-  "dgSpecHash": "NIKTEvQC5Iw/2XVHCztBmzFMP55yJHi3yHaPdK8oTWdWlaAl0/lM4TFFih4aP2A4hkmQfz7/7ODRHjLBRYbesg==",
->>>>>>> e7c3bdec24af503333e0d679b99c3bf28218408e
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Source\\Repos\\tonyisaacG\\Currency_Exchange_Office\\Services\\Services.csproj",
+  "projectFilePath": "E:\\carrer\\Freelance_Projects\\Currency_Exchange_Office\\Services\\Services.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

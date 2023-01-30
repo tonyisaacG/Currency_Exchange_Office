@@ -31,10 +31,15 @@ namespace Currency_Exchange_Office
         void openTreaderForm()
         {
             Application.Run(new traderForm());
-                }
-    
+        }
 
-      
+        private void btnCancel_Click(object sender, EventArgs e)
+        {
+            Thread th = new Thread(openTreaderForm);
+            th.SetApartmentState(ApartmentState.STA);
+            th.Start();
+            this.Close();
+        }
       
     }
 }

@@ -1,8 +1,12 @@
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Services\bin\Debug\net6.0\Services.deps.json
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Services\bin\Debug\net6.0\Services.dll
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Services\bin\Debug\net6.0\Services.pdb
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Services\bin\Debug\net6.0\Contracts.dll
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Services\bin\Debug\net6.0\Entities.dll
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Services\bin\Debug\net6.0\Services.Contracts.dll
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Services\bin\Debug\net6.0\Contracts.pdb
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Services\bin\Debug\net6.0\Services.Contracts.pdb
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Services\bin\Debug\net6.0\Entities.pdb
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
@@ -13,25 +17,3 @@ E:\carrer\Freelance_Projects\Currency_Exchange_Office\Services\obj\Debug\net6.0\
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Services\obj\Debug\net6.0\refint\Services.dll
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Services\obj\Debug\net6.0\Services.pdb
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Services\obj\Debug\net6.0\ref\Services.dll
-<<<<<<< HEAD
-E:\carrer\Freelance_Projects\Currency_Exchange_Office\Services\bin\Debug\net6.0\Contracts.dll
-E:\carrer\Freelance_Projects\Currency_Exchange_Office\Services\bin\Debug\net6.0\Entities.dll
-E:\carrer\Freelance_Projects\Currency_Exchange_Office\Services\bin\Debug\net6.0\Contracts.pdb
-E:\carrer\Freelance_Projects\Currency_Exchange_Office\Services\bin\Debug\net6.0\Entities.pdb
-=======
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Services\bin\Debug\net6.0\Services.deps.json
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Services\bin\Debug\net6.0\Services.dll
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Services\bin\Debug\net6.0\Services.pdb
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Services\bin\Debug\net6.0\Services.Contracts.dll
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Services\bin\Debug\net6.0\Services.Contracts.pdb
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Services\obj\Debug\net6.0\Services.dll
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Services\obj\Debug\net6.0\refint\Services.dll
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Services\obj\Debug\net6.0\Services.pdb
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Services\obj\Debug\net6.0\ref\Services.dll
->>>>>>> e7c3bdec24af503333e0d679b99c3bf28218408e

@@ -60,18 +60,18 @@
             this.panel1.Controls.Add(this.textBox1);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Controls.Add(this.progressBar1);
-            this.panel1.Location = new System.Drawing.Point(12, -1);
+            this.panel1.Location = new System.Drawing.Point(4, -1);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(877, 405);
+            this.panel1.Size = new System.Drawing.Size(773, 300);
             this.panel1.TabIndex = 1;
             // 
             // button6
             // 
             this.button6.Font = new System.Drawing.Font("Times New Roman", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.button6.ForeColor = System.Drawing.Color.CornflowerBlue;
-            this.button6.Location = new System.Drawing.Point(167, 333);
+            this.button6.Location = new System.Drawing.Point(151, 234);
             this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(142, 63);
+            this.button6.Size = new System.Drawing.Size(124, 54);
             this.button6.TabIndex = 14;
             this.button6.Text = "تعديل";
             this.button6.UseVisualStyleBackColor = true;
@@ -80,9 +80,9 @@
             // 
             this.button7.Font = new System.Drawing.Font("Times New Roman", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.button7.ForeColor = System.Drawing.Color.Red;
-            this.button7.Location = new System.Drawing.Point(5, 333);
+            this.button7.Location = new System.Drawing.Point(11, 233);
             this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(142, 63);
+            this.button7.Size = new System.Drawing.Size(124, 54);
             this.button7.TabIndex = 13;
             this.button7.Text = "تراجع";
             this.button7.UseVisualStyleBackColor = true;
@@ -92,9 +92,9 @@
             // 
             this.button8.Font = new System.Drawing.Font("Times New Roman", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.button8.ForeColor = System.Drawing.Color.LightSeaGreen;
-            this.button8.Location = new System.Drawing.Point(335, 333);
+            this.button8.Location = new System.Drawing.Point(290, 234);
             this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(142, 63);
+            this.button8.Size = new System.Drawing.Size(124, 54);
             this.button8.TabIndex = 12;
             this.button8.Text = "حفظ";
             this.button8.UseVisualStyleBackColor = true;
@@ -104,9 +104,9 @@
             this.button5.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.button5.Font = new System.Drawing.Font("Times New Roman", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.button5.ForeColor = System.Drawing.Color.RoyalBlue;
-            this.button5.Location = new System.Drawing.Point(321, 15);
+            this.button5.Location = new System.Drawing.Point(281, 13);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(176, 63);
+            this.button5.Size = new System.Drawing.Size(154, 54);
             this.button5.TabIndex = 11;
             this.button5.Text = "الودائع";
             this.button5.UseVisualStyleBackColor = false;
@@ -115,20 +115,21 @@
             // textBox3
             // 
             this.textBox3.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.textBox3.Location = new System.Drawing.Point(12, 23);
+            this.textBox3.Location = new System.Drawing.Point(10, 20);
             this.textBox3.Multiline = true;
             this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(199, 34);
+            this.textBox3.Size = new System.Drawing.Size(175, 30);
             this.textBox3.TabIndex = 10;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
+            this.label3.BackColor = System.Drawing.SystemColors.ControlLight;
             this.label3.Font = new System.Drawing.Font("Times New Roman", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label3.ForeColor = System.Drawing.Color.Black;
-            this.label3.Location = new System.Drawing.Point(229, 20);
+            this.label3.Location = new System.Drawing.Point(195, 18);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(64, 37);
+            this.label3.Size = new System.Drawing.Size(58, 35);
             this.label3.TabIndex = 9;
             this.label3.Text = "بحث";
             // 
@@ -137,9 +138,9 @@
             this.button3.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.button3.Font = new System.Drawing.Font("Times New Roman", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.button3.ForeColor = System.Drawing.Color.RoyalBlue;
-            this.button3.Location = new System.Drawing.Point(521, 15);
+            this.button3.Location = new System.Drawing.Point(456, 13);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(176, 63);
+            this.button3.Size = new System.Drawing.Size(154, 54);
             this.button3.TabIndex = 8;
             this.button3.Text = "التحويلات";
             this.button3.UseVisualStyleBackColor = false;
@@ -150,65 +151,65 @@
             this.button4.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.button4.Font = new System.Drawing.Font("Times New Roman", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.button4.ForeColor = System.Drawing.Color.RoyalBlue;
-            this.button4.Location = new System.Drawing.Point(703, 15);
+            this.button4.Location = new System.Drawing.Point(615, 13);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(170, 63);
+            this.button4.Size = new System.Drawing.Size(149, 54);
             this.button4.TabIndex = 7;
             this.button4.Text = "العملاء";
             this.button4.UseVisualStyleBackColor = false;
             // 
             // textBox2
             // 
-            this.textBox2.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.textBox2.Location = new System.Drawing.Point(521, 221);
+            this.textBox2.Font = new System.Drawing.Font("Times New Roman", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.textBox2.Location = new System.Drawing.Point(362, 168);
             this.textBox2.Multiline = true;
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(199, 34);
+            this.textBox2.Size = new System.Drawing.Size(245, 30);
             this.textBox2.TabIndex = 4;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Times New Roman", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label2.Font = new System.Drawing.Font("Times New Roman", 18.33962F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label2.ForeColor = System.Drawing.Color.Black;
-            this.label2.Location = new System.Drawing.Point(726, 217);
+            this.label2.Location = new System.Drawing.Point(635, 164);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(133, 37);
+            this.label2.Size = new System.Drawing.Size(108, 31);
             this.label2.TabIndex = 3;
             this.label2.Text = "رقم الهاتف";
             // 
             // textBox1
             // 
-            this.textBox1.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.textBox1.Location = new System.Drawing.Point(521, 131);
+            this.textBox1.Font = new System.Drawing.Font("Times New Roman", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.textBox1.Location = new System.Drawing.Point(362, 111);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(199, 34);
+            this.textBox1.Size = new System.Drawing.Size(245, 30);
             this.textBox1.TabIndex = 2;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Times New Roman", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label1.Font = new System.Drawing.Font("Times New Roman", 18.33962F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label1.ForeColor = System.Drawing.Color.Black;
-            this.label1.Location = new System.Drawing.Point(726, 127);
+            this.label1.Location = new System.Drawing.Point(635, 108);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(145, 37);
+            this.label1.Size = new System.Drawing.Size(118, 31);
             this.label1.TabIndex = 1;
             this.label1.Text = "اضافة عميل";
             // 
             // progressBar1
             // 
-            this.progressBar1.Location = new System.Drawing.Point(5, 3);
+            this.progressBar1.Location = new System.Drawing.Point(4, 3);
             this.progressBar1.Name = "progressBar1";
-            this.progressBar1.Size = new System.Drawing.Size(869, 80);
+            this.progressBar1.Size = new System.Drawing.Size(760, 68);
             this.progressBar1.TabIndex = 0;
             // 
             // clientForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(889, 421);
+            this.ClientSize = new System.Drawing.Size(778, 299);
             this.Controls.Add(this.panel1);
             this.MaximizeBox = false;
             this.Name = "clientForm";
