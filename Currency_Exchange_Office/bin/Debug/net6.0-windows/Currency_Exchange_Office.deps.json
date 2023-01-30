@@ -7,6 +7,11 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Currency_Exchange_Office/1.0.0": {
+<<<<<<< HEAD
+        "runtime": {
+          "Currency_Exchange_Office.dll": {}
+        }
+=======
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Design": "6.0.13",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.13",
@@ -726,6 +731,7 @@
         "runtime": {
           "Services.Contracts.dll": {}
         }
+>>>>>>> main
       }
     }
   },
@@ -734,6 +740,8 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+<<<<<<< HEAD
+=======
     },
     "Humanizer.Core/2.8.26": {
       "type": "package",
@@ -1207,6 +1215,7 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+>>>>>>> main
     }
   }
 }

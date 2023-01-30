@@ -20,6 +20,12 @@ namespace Currency_Exchange_Office
         [STAThread]
         static void Main()
         {
+<<<<<<< HEAD
+            // To customize application configuration such as set high DPI settings or default font,
+            // see https://aka.ms/applicationconfiguration.
+            ApplicationConfiguration.Initialize();
+          ///  Application.Run(new Purchases_Frm());
+=======
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
@@ -48,6 +54,7 @@ namespace Currency_Exchange_Office
                     services.AddScoped<IServicesManager, ServicesManager>();
                     services.AddTransient<Desposit_Form>();
                 });
+>>>>>>> main
         }
     }
 }
