@@ -1,46 +1,13 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-C:\Users\Abdullah\OneDrive\Desktop\New folder (3)\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.csproj.AssemblyReference.cache
-C:\Users\Abdullah\OneDrive\Desktop\New folder (3)\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.Form1.resources
-C:\Users\Abdullah\OneDrive\Desktop\New folder (3)\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.csproj.GenerateResource.cache
-C:\Users\Abdullah\OneDrive\Desktop\New folder (3)\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Abdullah\OneDrive\Desktop\New folder (3)\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.AssemblyInfoInputs.cache
-C:\Users\Abdullah\OneDrive\Desktop\New folder (3)\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.AssemblyInfo.cs
-C:\Users\Abdullah\OneDrive\Desktop\New folder (3)\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.csproj.CoreCompileInputs.cache
-C:\Users\Abdullah\OneDrive\Desktop\New folder (3)\Currency_Exchange_Office\bin\Debug\net6.0-windows\Currency_Exchange_Office.exe
-C:\Users\Abdullah\OneDrive\Desktop\New folder (3)\Currency_Exchange_Office\bin\Debug\net6.0-windows\Currency_Exchange_Office.deps.json
-C:\Users\Abdullah\OneDrive\Desktop\New folder (3)\Currency_Exchange_Office\bin\Debug\net6.0-windows\Currency_Exchange_Office.runtimeconfig.json
-C:\Users\Abdullah\OneDrive\Desktop\New folder (3)\Currency_Exchange_Office\bin\Debug\net6.0-windows\Currency_Exchange_Office.dll
-C:\Users\Abdullah\OneDrive\Desktop\New folder (3)\Currency_Exchange_Office\bin\Debug\net6.0-windows\Currency_Exchange_Office.pdb
-C:\Users\Abdullah\OneDrive\Desktop\New folder (3)\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.Purchases_Frm.resources
-C:\Users\Abdullah\OneDrive\Desktop\New folder (3)\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.Sales_Frm.resources
-C:\Users\Abdullah\OneDrive\Desktop\New folder (3)\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.dll
-C:\Users\Abdullah\OneDrive\Desktop\New folder (3)\Currency_Exchange_Office\obj\Debug\net6.0-windows\refint\Currency_Exchange_Office.dll
-C:\Users\Abdullah\OneDrive\Desktop\New folder (3)\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.pdb
-C:\Users\Abdullah\OneDrive\Desktop\New folder (3)\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.genruntimeconfig.cache
-C:\Users\Abdullah\OneDrive\Desktop\New folder (3)\Currency_Exchange_Office\obj\Debug\net6.0-windows\ref\Currency_Exchange_Office.dll
-=======
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Currency_Exchange_Office.exe
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Currency_Exchange_Office.deps.json
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Currency_Exchange_Office.runtimeconfig.json
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Currency_Exchange_Office.dll
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Currency_Exchange_Office.pdb
-E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.csproj.AssemblyReference.cache
-E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.Form1.resources
-E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.csproj.GenerateResource.cache
-E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.GeneratedMSBuildEditorConfig.editorconfig
-E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.AssemblyInfoInputs.cache
-E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.AssemblyInfo.cs
-E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.csproj.CoreCompileInputs.cache
-E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.dll
-E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\refint\Currency_Exchange_Office.dll
-E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.pdb
-E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.genruntimeconfig.cache
-E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\ref\Currency_Exchange_Office.dll
-E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.Desposit_Form.resources
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Humanizer.dll
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
@@ -86,42 +53,35 @@ E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\b
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.csproj.CopyComplete
-E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Humanizer.dll
-E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Contracts.dll
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Entities.dll
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Repository.dll
-E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Repository.pdb
-E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Contracts.pdb
-E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Entities.pdb
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Services.Contracts.dll
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Services.dll
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Repository.pdb
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Services.pdb
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Contracts.pdb
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Entities.pdb
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Services.Contracts.pdb
->>>>>>> main
-=======
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Currency_Exchange_Office.exe
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Currency_Exchange_Office.deps.json
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Currency_Exchange_Office.runtimeconfig.json
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Currency_Exchange_Office.dll
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Currency_Exchange_Office.pdb
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.csproj.AssemblyReference.cache
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.Form1.resources
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.treaders.traderForm.resources
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.csproj.GenerateResource.cache
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.AssemblyInfoInputs.cache
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.AssemblyInfo.cs
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.csproj.CoreCompileInputs.cache
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.dll
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\refint\Currency_Exchange_Office.dll
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.pdb
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.genruntimeconfig.cache
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\ref\Currency_Exchange_Office.dll
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.client.clientForm.resources
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.financialTransaction.financialTransaction.resources
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.login.LoginForm.resources
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.mainForm.MainForm.resources
-C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.Properties.Resources.resources
->>>>>>> shehab
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.csproj.AssemblyReference.cache
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.client.clientForm.resources
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.Desposit_Form.resources
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.financialTransaction.financialTransaction.resources
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.Form1.resources
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.login.LoginForm.resources
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.mainForm.MainForm.resources
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.Properties.Resources.resources
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.Purchases_Frm.resources
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.Sales_Frm.resources
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.treaders.traderForm.resources
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.csproj.GenerateResource.cache
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.GeneratedMSBuildEditorConfig.editorconfig
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.AssemblyInfoInputs.cache
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.AssemblyInfo.cs
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.csproj.CoreCompileInputs.cache
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.csproj.CopyComplete
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.dll
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\refint\Currency_Exchange_Office.dll
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.pdb
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.genruntimeconfig.cache
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\ref\Currency_Exchange_Office.dll

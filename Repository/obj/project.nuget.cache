@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mN77Wf6mCsmt84emuOK9pmMEaUWR5mgPFZk6ih/r2bXOhcxllER5E/DByAPhxGKON8vVSde0Tp9cjtJEZrcPuw==",
+  "dgSpecHash": "lp31drqWaLiPSnkWXDHqGOyWB6SfEkXYVNpUYTI490yu7F7YpUzsIG0kFNhrORPtUAKtXcqhQphPoVLDa6J7aQ==",
   "success": true,
   "projectFilePath": "E:\\carrer\\Freelance_Projects\\Currency_Exchange_Office\\Repository\\Repository.csproj",
   "expectedPackageFiles": [
@@ -24,12 +24,5 @@
     "C:\\Users\\La Vie\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\La Vie\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file E:\\carrer\\Freelance_Projects\\Currency_Exchange_Office\\Repository\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

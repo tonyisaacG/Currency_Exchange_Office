@@ -10,17 +10,9 @@
         "name": "Microsoft.WindowsDesktop.App",
         "version": "6.0.0"
       }
-<<<<<<< HEAD
-<<<<<<< HEAD
-    ]
-=======
     ],
     "configProperties": {
       "System.Reflection.NullabilityInfoContext.IsSupported": true
     }
->>>>>>> main
-=======
-    ]
->>>>>>> shehab
   }
 }

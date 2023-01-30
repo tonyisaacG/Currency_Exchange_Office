@@ -55,7 +55,8 @@
             this.الموردينToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(893, 28);
+            this.menuStrip1.Padding = new System.Windows.Forms.Padding(5, 2, 0, 2);
+            this.menuStrip1.Size = new System.Drawing.Size(781, 25);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -64,13 +65,13 @@
             this.العملاءToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.اضافةعميلToolStripMenuItem});
             this.العملاءToolStripMenuItem.Name = "العملاءToolStripMenuItem";
-            this.العملاءToolStripMenuItem.Size = new System.Drawing.Size(65, 24);
+            this.العملاءToolStripMenuItem.Size = new System.Drawing.Size(55, 21);
             this.العملاءToolStripMenuItem.Text = "العملاء";
             // 
             // اضافةعميلToolStripMenuItem
             // 
             this.اضافةعميلToolStripMenuItem.Name = "اضافةعميلToolStripMenuItem";
-            this.اضافةعميلToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.اضافةعميلToolStripMenuItem.Size = new System.Drawing.Size(148, 24);
             this.اضافةعميلToolStripMenuItem.Text = "اضافة عميل";
             // 
             // الموردينToolStripMenuItem
@@ -78,22 +79,22 @@
             this.الموردينToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.اضافةموردToolStripMenuItem});
             this.الموردينToolStripMenuItem.Name = "الموردينToolStripMenuItem";
-            this.الموردينToolStripMenuItem.Size = new System.Drawing.Size(81, 24);
+            this.الموردينToolStripMenuItem.Size = new System.Drawing.Size(70, 21);
             this.الموردينToolStripMenuItem.Text = "الموردين ";
             // 
             // اضافةموردToolStripMenuItem
             // 
             this.اضافةموردToolStripMenuItem.Name = "اضافةموردToolStripMenuItem";
-            this.اضافةموردToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.اضافةموردToolStripMenuItem.Size = new System.Drawing.Size(149, 24);
             this.اضافةموردToolStripMenuItem.Text = "اضافة مورد ";
             // 
             // button1
             // 
             this.button1.BackgroundImage = global::Currency_Exchange_Office.Properties.Resources.download;
             this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.button1.Location = new System.Drawing.Point(43, 41);
+            this.button1.Location = new System.Drawing.Point(38, 35);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(196, 160);
+            this.button1.Size = new System.Drawing.Size(172, 136);
             this.button1.TabIndex = 1;
             this.button1.UseVisualStyleBackColor = true;
             // 
@@ -101,9 +102,9 @@
             // 
             this.button2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button2.BackgroundImage")));
             this.button2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.button2.Location = new System.Drawing.Point(403, 49);
+            this.button2.Location = new System.Drawing.Point(353, 42);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(173, 165);
+            this.button2.Size = new System.Drawing.Size(151, 140);
             this.button2.TabIndex = 2;
             this.button2.UseVisualStyleBackColor = true;
             // 
@@ -111,9 +112,9 @@
             // 
             this.button3.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button3.BackgroundImage")));
             this.button3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.button3.Location = new System.Drawing.Point(688, 56);
+            this.button3.Location = new System.Drawing.Point(602, 48);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(154, 145);
+            this.button3.Size = new System.Drawing.Size(135, 123);
             this.button3.TabIndex = 3;
             this.button3.UseVisualStyleBackColor = true;
             // 
@@ -121,9 +122,9 @@
             // 
             this.button4.BackgroundImage = global::Currency_Exchange_Office.Properties.Resources.download1;
             this.button4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.button4.Location = new System.Drawing.Point(43, 302);
+            this.button4.Location = new System.Drawing.Point(38, 257);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(196, 115);
+            this.button4.Size = new System.Drawing.Size(172, 98);
             this.button4.TabIndex = 4;
             this.button4.UseVisualStyleBackColor = true;
             // 
@@ -132,9 +133,9 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Times New Roman", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label2.ForeColor = System.Drawing.Color.Black;
-            this.label2.Location = new System.Drawing.Point(96, 226);
+            this.label2.Location = new System.Drawing.Point(84, 192);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(92, 38);
+            this.label2.Size = new System.Drawing.Size(82, 35);
             this.label2.TabIndex = 5;
             this.label2.Text = "العملاء";
             // 
@@ -143,9 +144,9 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Times New Roman", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label1.ForeColor = System.Drawing.Color.Black;
-            this.label1.Location = new System.Drawing.Point(434, 226);
+            this.label1.Location = new System.Drawing.Point(380, 192);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(115, 38);
+            this.label1.Size = new System.Drawing.Size(102, 35);
             this.label1.TabIndex = 6;
             this.label1.Text = "الموردين";
             // 
@@ -154,9 +155,9 @@
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Times New Roman", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label3.ForeColor = System.Drawing.Color.Black;
-            this.label3.Location = new System.Drawing.Point(731, 226);
+            this.label3.Location = new System.Drawing.Point(640, 192);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(91, 38);
+            this.label3.Size = new System.Drawing.Size(81, 35);
             this.label3.TabIndex = 7;
             this.label3.Text = "التقرير";
             // 
@@ -165,9 +166,9 @@
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Times New Roman", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label4.ForeColor = System.Drawing.Color.Black;
-            this.label4.Location = new System.Drawing.Point(96, 447);
+            this.label4.Location = new System.Drawing.Point(84, 380);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(104, 38);
+            this.label4.Size = new System.Drawing.Size(93, 35);
             this.label4.TabIndex = 8;
             this.label4.Text = "الحولات";
             // 
@@ -176,9 +177,9 @@
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Times New Roman", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label5.ForeColor = System.Drawing.Color.Black;
-            this.label5.Location = new System.Drawing.Point(445, 473);
+            this.label5.Location = new System.Drawing.Point(389, 402);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(91, 38);
+            this.label5.Size = new System.Drawing.Size(82, 35);
             this.label5.TabIndex = 10;
             this.label5.Text = "الودائع";
             // 
@@ -186,17 +187,17 @@
             // 
             this.button5.BackgroundImage = global::Currency_Exchange_Office.Properties.Resources.deposits;
             this.button5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.button5.Location = new System.Drawing.Point(392, 268);
+            this.button5.Location = new System.Drawing.Point(343, 228);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(196, 183);
+            this.button5.Size = new System.Drawing.Size(172, 156);
             this.button5.TabIndex = 9;
             this.button5.UseVisualStyleBackColor = true;
             // 
             // MainForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(893, 520);
+            this.ClientSize = new System.Drawing.Size(781, 442);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.label4);
@@ -214,6 +215,7 @@
             this.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.RightToLeftLayout = true;
             this.ShowIcon = false;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "الصفحة الرئيسية";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();

@@ -10,3 +10,6 @@ E:\carrer\Freelance_Projects\Currency_Exchange_Office\Contracts\obj\Debug\net6.0
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Contracts\obj\Debug\net6.0\refint\Contracts.dll
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Contracts\obj\Debug\net6.0\Contracts.pdb
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Contracts\obj\Debug\net6.0\ref\Contracts.dll
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Contracts\bin\Debug\net6.0\Entities.dll
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Contracts\bin\Debug\net6.0\Entities.pdb
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Contracts\obj\Debug\net6.0\Contracts.csproj.CopyComplete

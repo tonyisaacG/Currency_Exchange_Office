@@ -1,8 +1,3 @@
-E:\carrer\Freelance_Projects\Currency_Exchange_Office\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
-E:\carrer\Freelance_Projects\Currency_Exchange_Office\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
-E:\carrer\Freelance_Projects\Currency_Exchange_Office\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
-E:\carrer\Freelance_Projects\Currency_Exchange_Office\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
-E:\carrer\Freelance_Projects\Currency_Exchange_Office\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Repository\bin\Debug\net6.0\Repository.deps.json
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Repository\bin\Debug\net6.0\Repository.dll
@@ -11,6 +6,11 @@ E:\carrer\Freelance_Projects\Currency_Exchange_Office\Repository\bin\Debug\net6.
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Repository\bin\Debug\net6.0\Entities.dll
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Repository\bin\Debug\net6.0\Contracts.pdb
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Repository\bin\Debug\net6.0\Entities.pdb
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Repository\obj\Debug\net6.0\Repository.dll
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Repository\obj\Debug\net6.0\refint\Repository.dll
