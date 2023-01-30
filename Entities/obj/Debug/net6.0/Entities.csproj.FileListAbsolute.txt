@@ -10,3 +10,15 @@ E:\carrer\Freelance_Projects\Currency_Exchange_Office\Entities\obj\Debug\net6.0\
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Entities\obj\Debug\net6.0\refint\Entities.dll
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Entities\obj\Debug\net6.0\Entities.pdb
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Entities\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Entities\bin\Debug\net6.0\Entities.dll
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Entities\bin\Debug\net6.0\Entities.pdb
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Entities\obj\Debug\net6.0\Entities.dll
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Entities\obj\Debug\net6.0\Entities.pdb
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Entities\obj\Debug\net6.0\ref\Entities.dll

@@ -1,4 +1,6 @@
 using Contracts;
+using Currency_Exchange_Office.client;
+using Currency_Exchange_Office.treaders;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -26,7 +28,7 @@ namespace Currency_Exchange_Office
 
             var host = CreateHostBuilder().Build();
             ServiceProvider = host.Services;
-            
+
             Application.Run(ServiceProvider.GetRequiredService<mainForm.MainForm>());
         }
         public static IServiceProvider ServiceProvider { get; private set; }
@@ -43,7 +45,7 @@ namespace Currency_Exchange_Office
 
             return Host.CreateDefaultBuilder()
                 .ConfigureServices((context, services) => {
-                    services.AddDbContext<DbContextRepository>(o=>o.UseSqlServer(configuration.GetConnectionString("DatabaseConnection")));
+                    services.AddDbContext<DbContextRepository>(o => o.UseSqlServer(configuration.GetConnectionString("DatabaseConnection")));
                     services.AddScoped<IRepositoryManager, RepositoryManager>();
                     services.AddScoped<IServicesManager, ServicesManager>();
                     services.AddTransient<mainForm.MainForm>();

@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Currency_Exchange_Office.financialTransaction;
+using Currency_Exchange_Office.treaders;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -16,5 +18,23 @@ namespace Currency_Exchange_Office
         {
             InitializeComponent();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Thread th = new Thread(openTreaderForm);
+            th.SetApartmentState(ApartmentState.STA);
+            th.Start();
+            this.Close();
+
+
+        }
+        void openTreaderForm()
+        {
+            Application.Run(new traderForm());
+                }
+    
+
+      
+      
     }
 }

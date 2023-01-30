@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Currency_Exchange_Office.financialTransaction;
+using Currency_Exchange_Office.mainForm;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +17,47 @@ namespace Currency_Exchange_Office.client
         public clientForm()
         {
             InitializeComponent();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+            Thread th = new Thread(openTransactionForm);
+            th.SetApartmentState(ApartmentState.STA);
+            th.Start();
+            this.Close();
+        }
+
+        void openTransactionForm()
+        {
+            Application.Run(new financialTransactionForm());
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Thread th = new Thread(openDespositForm);
+            th.SetApartmentState(ApartmentState.STA);
+            th.Start();
+            this.Close();
+        }
+        void openDespositForm()
+        {
+            Application.Run(new Desposit_Form());
+        }
+
+       
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+
+            Thread th = new Thread(openMainForm);
+            th.SetApartmentState(ApartmentState.STA);
+            th.Start();
+            this.Close();
+        }
+        void openMainForm()
+        {
+            Application.Run(new MainForm());
         }
     }
 }
