@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:\Users\Abdullah\OneDrive\Desktop\New folder (3)\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.csproj.AssemblyReference.cache
 C:\Users\Abdullah\OneDrive\Desktop\New folder (3)\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.Form1.resources
 C:\Users\Abdullah\OneDrive\Desktop\New folder (3)\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.csproj.GenerateResource.cache
@@ -99,3 +100,28 @@ E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\b
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Services.pdb
 E:\carrer\Freelance_Projects\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Services.Contracts.pdb
 >>>>>>> main
+=======
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Currency_Exchange_Office.exe
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Currency_Exchange_Office.deps.json
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Currency_Exchange_Office.runtimeconfig.json
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Currency_Exchange_Office.dll
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\bin\Debug\net6.0-windows\Currency_Exchange_Office.pdb
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.csproj.AssemblyReference.cache
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.Form1.resources
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.treaders.traderForm.resources
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.csproj.GenerateResource.cache
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.AssemblyInfoInputs.cache
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.AssemblyInfo.cs
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.dll
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\refint\Currency_Exchange_Office.dll
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.pdb
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.genruntimeconfig.cache
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\ref\Currency_Exchange_Office.dll
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.client.clientForm.resources
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.financialTransaction.financialTransaction.resources
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.login.LoginForm.resources
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.mainForm.MainForm.resources
+C:\Users\HP\Source\Repos\tonyisaacG\Currency_Exchange_Office\Currency_Exchange_Office\obj\Debug\net6.0-windows\Currency_Exchange_Office.Properties.Resources.resources
+>>>>>>> shehab

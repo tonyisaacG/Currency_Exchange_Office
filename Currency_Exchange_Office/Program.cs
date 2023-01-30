@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 using Contracts;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -9,6 +10,11 @@ using Services.Contracts;
 using System.ComponentModel.Design;
 using System.Configuration;
 using System.IO;
+=======
+using Currency_Exchange_Office.client;
+using Currency_Exchange_Office.mainForm;
+using Currency_Exchange_Office.treaders;
+>>>>>>> shehab
 
 namespace Currency_Exchange_Office
 {
@@ -24,6 +30,7 @@ namespace Currency_Exchange_Office
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
+<<<<<<< HEAD
           ///  Application.Run(new Purchases_Frm());
 =======
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
@@ -55,6 +62,9 @@ namespace Currency_Exchange_Office
                     services.AddTransient<Desposit_Form>();
                 });
 >>>>>>> main
+=======
+            Application.Run(new MainForm());
+>>>>>>> shehab
         }
     }
 }

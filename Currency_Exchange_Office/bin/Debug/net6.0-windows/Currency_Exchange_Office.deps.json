@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "Currency_Exchange_Office/1.0.0": {
 <<<<<<< HEAD
+<<<<<<< HEAD
         "runtime": {
           "Currency_Exchange_Office.dll": {}
         }
@@ -732,6 +733,11 @@
           "Services.Contracts.dll": {}
         }
 >>>>>>> main
+=======
+        "runtime": {
+          "Currency_Exchange_Office.dll": {}
+        }
+>>>>>>> shehab
       }
     }
   },
@@ -740,6 +746,7 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
     },
@@ -1216,6 +1223,8 @@
       "serviceable": false,
       "sha512": ""
 >>>>>>> main
+=======
+>>>>>>> shehab
     }
   }
 }

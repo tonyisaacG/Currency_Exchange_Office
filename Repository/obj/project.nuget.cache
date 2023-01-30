@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "mN77Wf6mCsmt84emuOK9pmMEaUWR5mgPFZk6ih/r2bXOhcxllER5E/DByAPhxGKON8vVSde0Tp9cjtJEZrcPuw==",
   "success": true,
   "projectFilePath": "E:\\carrer\\Freelance_Projects\\Currency_Exchange_Office\\Repository\\Repository.csproj",
@@ -32,4 +33,11 @@
       "message": "Problem reading the cache file E:\\carrer\\Freelance_Projects\\Currency_Exchange_Office\\Repository\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
     }
   ]
+=======
+  "dgSpecHash": "2pIl9DRF59Ek64UgSj8hi1pvJ2LjAlGdcHpy7Mh+xVgVYvj1GaUYJumWA2pVmg0CuH6CPQEGtvGdX4OfF59NOQ==",
+  "success": true,
+  "projectFilePath": "E:\\carrer\\Freelance_Projects\\Currency_Exchange_Office\\Repository\\Repository.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> shehab
 }
