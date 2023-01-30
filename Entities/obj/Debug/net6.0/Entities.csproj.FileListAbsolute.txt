@@ -1,0 +1,12 @@
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Entities\bin\Debug\net6.0\Entities.deps.json
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Entities\bin\Debug\net6.0\Entities.dll
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Entities\bin\Debug\net6.0\Entities.pdb
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Entities\obj\Debug\net6.0\Entities.dll
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Entities\obj\Debug\net6.0\refint\Entities.dll
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Entities\obj\Debug\net6.0\Entities.pdb
+E:\carrer\Freelance_Projects\Currency_Exchange_Office\Entities\obj\Debug\net6.0\ref\Entities.dll

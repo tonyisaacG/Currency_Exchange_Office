@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Services.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Services.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Services.Contracts.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Services.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../Services.Contracts/Services.Contracts.csproj",
+      "msbuildProject": "../Services.Contracts/Services.Contracts.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Services.Contracts >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\La Vie\\.nuget\\packages\\": {}
@@ -32,7 +51,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\carrer\\Freelance_Projects\\Currency_Exchange_Office\\Services.Contracts\\Services.Contracts.csproj": {
+              "projectPath": "E:\\carrer\\Freelance_Projects\\Currency_Exchange_Office\\Services.Contracts\\Services.Contracts.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
