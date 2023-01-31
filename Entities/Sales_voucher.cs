@@ -12,15 +12,20 @@ namespace Entities
     {
         [Key]
         public int SaV_id { get; set; }
-        public string SaV_merchantAccount { get; set; }
         public string SaV_paymentMethod { get; set; }
         [DataType(DataType.Currency)]
+        [Column(TypeName = "money")]
         public decimal SaV_Quantity { get; set; }
         public string SaV_currencyType { get; set; }
         [DataType(DataType.Currency)]
+        [Column(TypeName = "money")]
         public decimal SaV_transeferPrice { get; set; }
         [DataType(DataType.Currency)]
+        [Column(TypeName = "money")]
         public decimal SaV_totalAmount { get; set; }
+        [DataType(DataType.Currency)]
+        [Column(TypeName = "money")]
+        public decimal SaV_CostPrice { get; set; }
         [DataType(DataType.Date)]
         public DateTime SaV_date { get; set; }
 

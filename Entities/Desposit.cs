@@ -13,7 +13,14 @@ namespace Entities
         [Key]
         public int Despt_id { get; set; }
         [DataType(DataType.Currency)]
-        public decimal Despt_money { get; set; }
+        [Column(TypeName = "money")]
+        public decimal Despt_money_prv { get; set; }
+        [DataType(DataType.Currency)]
+        [Column(TypeName = "money")]
+        public decimal Despt_money_add { get; set; }
+        [DataType(DataType.Currency)]
+        [Column(TypeName = "money")]
+        public decimal Despt_money_now { get; set; }
         [DataType(DataType.Date)]
         public DateTime Despt_date { get; set; }
 

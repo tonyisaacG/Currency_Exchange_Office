@@ -1,6 +1,8 @@
 ﻿using Currency_Exchange_Office.client;
 using Currency_Exchange_Office.financialTransaction;
 using Currency_Exchange_Office.treaders;
+using Microsoft.Extensions.DependencyInjection;
+using Services.Contracts;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -56,7 +58,7 @@ namespace Currency_Exchange_Office.mainForm
         }
         void openDespositForm()
         {
-            Application.Run(new Desposit_Form());
+            Application.Run(new Desposit_Form(Program.ServiceProvider.GetRequiredService<IServicesManager>()));
         }
 
         private void button4_Click(object sender, EventArgs e)

@@ -12,17 +12,23 @@ namespace Entities
     {
         [Key]
         public int ShV_id { get; set; }
-        public string ShV_merchantAccount { get; set; }
         public string ShV_paymentMethod { get; set; }
         [DataType(DataType.Currency)]
+        [Column(TypeName = "money")]
         public decimal ShV_Quantity { get; set; }
         public string ShV_currencyType { get; set; }
         [DataType(DataType.Currency)]
+        [Column(TypeName = "money")]
         public decimal ShV_transeferPrice { get; set; }
         [DataType(DataType.Currency)]
+        [Column(TypeName = "money")]
         public decimal ShV_totalAmount { get; set; }
+        [DataType(DataType.Currency)]
+        [Column(TypeName = "money")]
+        public decimal ShV_CostPrice { get; set; }
         [DataType(DataType.Date)]
-        public DateTime ShV_date { get; set; }
+        public DateTime ShV_date { get; set; } 
+
 
         [ForeignKey(nameof(Trader))]
         public int Trader_id { get; set; }

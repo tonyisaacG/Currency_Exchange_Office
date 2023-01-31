@@ -12,6 +12,5 @@ namespace Contracts
         IEnumerable<Desposit> GetAllDesposite(bool trackChanges);
         Desposit GetDesposite(int Id, bool trackChanges);
         void CreateDesposite(Desposit desposit);
-        void DeleteDesposite(Desposit desposit);
     }
 }

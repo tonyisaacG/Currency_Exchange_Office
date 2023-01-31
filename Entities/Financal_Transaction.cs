@@ -13,14 +13,17 @@ namespace Entities
         [Key]
         public int FT_id { get; set; }
         [DataType(DataType.Currency)]
+        [Column(TypeName = "money")]
         public decimal FT_amount { get; set; }
         [DataType(DataType.Currency)]
+        [Column(TypeName = "money")]
         public decimal FT_tranferedAmount { get; set; }
         [DataType(DataType.Date)]
         public DateTime FT_date { get; set; }
         public string FT_transferType { get; set; }
         public string FT_currencyType { get; set; }
         [DataType(DataType.Currency)]
+        [Column(TypeName = "money")]
         public float FT_exchangeRate { get; set; }
         public string FT_countery { get; set; }
 

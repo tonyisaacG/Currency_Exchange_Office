@@ -1,4 +1,5 @@
 ﻿using Contracts;
+using Entities;
 using Services.Contracts;
 using System;
 using System.Collections.Generic;
@@ -15,6 +16,21 @@ namespace Services
         public DespositeServices(IRepositoryManager _repositoryManager)
         {
             repositoryManager = _repositoryManager;
+        }
+
+        public void AddDesposite(Desposit desposit)
+        {
+            repositoryManager.DepositeRepository.CreateDesposite(desposit);
+        }
+
+        public IEnumerable<Client> GetAllClients(bool trackChanges)
+        {
+            return repositoryManager.ClientRepository.GetAllClients(trackChanges);
+        }
+
+        public IEnumerable<Desposit> GetAllDesposite(bool trackChanges)
+        {
+            return repositoryManager.DepositeRepository.GetAllDesposite(trackChanges);
         }
     }
 }

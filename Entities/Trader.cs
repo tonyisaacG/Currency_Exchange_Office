@@ -11,8 +11,15 @@ namespace Entities
     {
         [Key]
         public int Tad_id { get; set; }
+        [Required]
+        public string Tad_parCode { get; set; }
         public string Tad_name { get; set; }
         [DataType(DataType.PhoneNumber)]
         public string Tad_phone { get; set; }
+
+        public static string GenerateParcode(int id)
+        {
+            return String.Format("{0}{1}", DateTime.Now.ToString("mmss"), id);
+        }
     }
 }

@@ -94,10 +94,11 @@
             this.textBox6.Location = new System.Drawing.Point(12, 17);
             this.textBox6.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(160, 31);
+            this.textBox6.Size = new System.Drawing.Size(247, 31);
             this.textBox6.TabIndex = 81;
             this.textBox6.Text = "0";
             this.textBox6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox6.TextChanged += new System.EventHandler(this.textBox6_TextChanged);
             // 
             // button3
             // 
@@ -126,7 +127,7 @@
             this.label9.BackColor = System.Drawing.SystemColors.ControlLight;
             this.label9.Font = new System.Drawing.Font("Times New Roman", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label9.ForeColor = System.Drawing.Color.Black;
-            this.label9.Location = new System.Drawing.Point(179, 16);
+            this.label9.Location = new System.Drawing.Point(266, 16);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(58, 35);
             this.label9.TabIndex = 77;
@@ -298,12 +299,12 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Times New Roman", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label4.Location = new System.Drawing.Point(328, 80);
+            this.label4.Location = new System.Drawing.Point(372, 78);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(109, 26);
+            this.label4.Size = new System.Drawing.Size(58, 26);
             this.label4.TabIndex = 62;
-            this.label4.Text = "طريقة الدفع ";
+            this.label4.Text = "العملة";
             // 
             // textBox1
             // 

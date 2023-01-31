@@ -50,7 +50,7 @@ namespace Currency_Exchange_Office
                     services.AddDbContext<DbContextRepository>(o => o.UseSqlServer(configuration.GetConnectionString("DatabaseConnection")));
                     services.AddScoped<IRepositoryManager, RepositoryManager>();
                     services.AddScoped<IServicesManager, ServicesManager>();
-                    services.AddTransient<MainForm>();
+                    services.AddScoped<MainForm>();
                 });
         }
     }

@@ -29,8 +29,8 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
-            this.button1 = new System.Windows.Forms.Button();
             this.textBox5 = new System.Windows.Forms.TextBox();
+            this.button1 = new System.Windows.Forms.Button();
             this.label9 = new System.Windows.Forms.Label();
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
@@ -58,8 +58,8 @@
             // 
             // panel1
             // 
-            this.panel1.Controls.Add(this.button1);
             this.panel1.Controls.Add(this.textBox5);
+            this.panel1.Controls.Add(this.button1);
             this.panel1.Controls.Add(this.label9);
             this.panel1.Controls.Add(this.button3);
             this.panel1.Controls.Add(this.button4);
@@ -88,6 +88,17 @@
             this.panel1.Size = new System.Drawing.Size(692, 444);
             this.panel1.TabIndex = 0;
             // 
+            // textBox5
+            // 
+            this.textBox5.Font = new System.Drawing.Font("Times New Roman", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.textBox5.Location = new System.Drawing.Point(11, 19);
+            this.textBox5.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            this.textBox5.Name = "textBox5";
+            this.textBox5.Size = new System.Drawing.Size(221, 35);
+            this.textBox5.TabIndex = 63;
+            this.textBox5.Text = "0";
+            this.textBox5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
             // button1
             // 
             this.button1.BackColor = System.Drawing.SystemColors.ActiveBorder;
@@ -100,22 +111,13 @@
             this.button1.Text = "التقرير";
             this.button1.UseVisualStyleBackColor = false;
             // 
-            // textBox5
-            // 
-            this.textBox5.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.textBox5.Location = new System.Drawing.Point(41, 21);
-            this.textBox5.Multiline = true;
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(121, 30);
-            this.textBox5.TabIndex = 61;
-            // 
             // label9
             // 
             this.label9.AutoSize = true;
             this.label9.BackColor = System.Drawing.SystemColors.ControlLight;
             this.label9.Font = new System.Drawing.Font("Times New Roman", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label9.ForeColor = System.Drawing.Color.Black;
-            this.label9.Location = new System.Drawing.Point(185, 19);
+            this.label9.Location = new System.Drawing.Point(239, 17);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(58, 35);
             this.label9.TabIndex = 60;
@@ -300,12 +302,12 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Times New Roman", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label4.Location = new System.Drawing.Point(327, 102);
+            this.label4.Location = new System.Drawing.Point(371, 102);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(109, 26);
+            this.label4.Size = new System.Drawing.Size(58, 26);
             this.label4.TabIndex = 44;
-            this.label4.Text = "طريقة الدفع ";
+            this.label4.Text = "العملة";
             // 
             // textBox1
             // 
@@ -403,11 +405,11 @@
         private Label label2;
         private DateTimePicker dateTimePicker1;
         private Label label1;
-        private TextBox textBox5;
         private Label label9;
         private Button button3;
         private Button button4;
         private ProgressBar progressBar1;
         private Button button1;
+        private TextBox textBox5;
     }
 }

@@ -8,6 +8,15 @@ namespace Contracts
 {
     public interface IRepositoryManager
     {
-       void SaveAsync();
+        IDepositeRepository DepositeRepository { get; }
+        IClientRepository ClientRepository { get; }
+        ICRecevierRepository CRecevierRepository { get; }
+        IFinancalTransRepository FinancalTransRepository { get; }
+        ISales_voucherRepository Sales_VoucherRepository { get; }
+        IShopping_VoucherRepository Shopping_VoucherRepository { get; }
+        ITraderRepository TraderRepository { get; }
+        IWithdrawalRepository WithdrawalRepository { get; }
+
+        void Save();
     }
 }

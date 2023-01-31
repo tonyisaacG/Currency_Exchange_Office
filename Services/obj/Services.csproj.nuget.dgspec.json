@@ -138,7 +138,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\carrer\\Freelance_Projects\\Currency_Exchange_Office\\Entities\\Entities.csproj": {
+                "projectPath": "E:\\carrer\\Freelance_Projects\\Currency_Exchange_Office\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
